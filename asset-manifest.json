@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/friendlyCats/static/css/main.bde22ecf.css",
+    "main.js": "/friendlyCats/static/js/main.65ea9c82.js",
+    "static/js/787.25eb8a8d.chunk.js": "/friendlyCats/static/js/787.25eb8a8d.chunk.js",
+    "index.html": "/friendlyCats/index.html",
+    "main.bde22ecf.css.map": "/friendlyCats/static/css/main.bde22ecf.css.map",
+    "main.65ea9c82.js.map": "/friendlyCats/static/js/main.65ea9c82.js.map",
+    "787.25eb8a8d.chunk.js.map": "/friendlyCats/static/js/787.25eb8a8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bde22ecf.css",
+    "static/js/main.65ea9c82.js"
+  ]
+}
